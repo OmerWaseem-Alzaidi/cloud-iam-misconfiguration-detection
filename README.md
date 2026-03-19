@@ -165,8 +165,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions about this research:
-- 📧 Email: omaralzaidi2002@gmail.com
-- 🔗 LinkedIn: [Connect with Omer](https://www.linkedin.com/in/omerwaseemal-zaidi)
+
+<a href="mailto:omaralzaidi2002@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email"/></a>
+<a href="https://github.com/OmerWaseem-Alzaidi"><img src="https://cdn.simpleicons.org/github/e6edf3" width="22" height="22" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/omerwaseemal-zaidi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
